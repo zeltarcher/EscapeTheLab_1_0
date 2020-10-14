@@ -1,7 +1,29 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Levels/Main Menu.unity
   isLoaded: 0
   isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Level 1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Level 2.unity
+  isLoaded: 0
+  isActive: 0
+=======
+- path: Assets/Scenes/MainMenu.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/HUD.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Level 0.unity
+  isLoaded: 1
+  isActive: 1
+>>>>>>> 62810c3a1d29d5e0786b3ed5c4722a2db6861d13
   isSubScene: 0
 - path: Assets/Levels/Level 1.unity
   isLoaded: 0
@@ -15,7 +37,13 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
   isSubScene: 0
+<<<<<<< HEAD
 - path: Assets/Levels/Level 4.unity
   isLoaded: 1
   isActive: 1
+=======
+- path: Assets/Levels/Final Level.unity
+  isLoaded: 0
+  isActive: 0
+>>>>>>> 62810c3a1d29d5e0786b3ed5c4722a2db6861d13
   isSubScene: 0
