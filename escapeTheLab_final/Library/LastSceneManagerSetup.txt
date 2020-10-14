@@ -1,21 +1,29 @@
 sceneSetups:
-- path: Assets/Levels/Main Menu.unity
+- path: Assets/Scenes/MainMenu.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/Levels/Level 1.unity
+- path: Assets/Scenes/HUD.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/Levels/Level 2.unity
+- path: Assets/Levels/Level 0.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
-- path: Assets/Levels/Level 3.unity
-  isLoaded: 1
+- path: Assets/Levels/Level 1.unity
+  isLoaded: 0
   isActive: 0
   isSubScene: 0
-- path: Assets/Levels/Level 4.unity
-  isLoaded: 1
+- path: Assets/Levels/Level 2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Level 3.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Levels/Final Level.unity
+  isLoaded: 0
   isActive: 0
   isSubScene: 0
